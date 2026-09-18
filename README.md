@@ -32,7 +32,7 @@
 
 > 🎓 **Graduation Project** — Computer Science · Al-Balqa Applied University · 2026
 >
-> 👨‍💻 **Abedalqader Alfaqeeh** · Mohammad Frehat · Saad Rabadi · Mohammad Alghazo
+> 👨‍💻 **Abedalqader Alfaqeeh**
 
 <br/>
 
